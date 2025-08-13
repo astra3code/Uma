@@ -13,11 +13,11 @@
     ],
     "hyperpipe": [
         "https://cal1.hpapi.ggtyler.dev",
-        "https://hyperpipeapi.darkness.services",
         "https://hyperpipeapi.onrender.com",
-        "https://hyperpipeapi.ducks.party",
         "https://pol1.hpapi.ggtyler.dev",
-        "https://hyperpipebackend.in.projectsegfau.lt"
+        "https://hyperpipebackend.in.projectsegfau.lt",
+        "https://hyperpipeapi.ducks.party",
+        "https://hyperpipeapi.darkness.services"
     ],
     "jiosaavn": "https://saavn-ytify.vercel.app",
     "status": -1,
