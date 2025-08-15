@@ -4,25 +4,25 @@
         "https://cal1.piapi.ggtyler.dev",
         "https://nyc1.piapi.ggtyler.dev",
         "https://piapi.ggtyler.dev",
-        "https://pol1.piapi.ggtyler.dev",
-        "https://api.piped.private.coffee"
+        "https://api.piped.private.coffee",
+        "https://pol1.piapi.ggtyler.dev"
     ],
     "hls": [],
     "proxy": [
         "https://api.piped.private.coffee"
     ],
     "invidious": [
-        "https://iv.melmac.space"
+        "https://invidious.reallyaweso.me"
     ],
     "hyperpipe": [
-        "https://hyperpipeapi.onrender.com",
         "https://hyperpipeapi.darkness.services",
-        "https://pol1.hpapi.ggtyler.dev",
+        "https://hyperpipeapi.onrender.com",
         "https://nyc1.hpapi.ggtyler.dev",
         "https://hyperpipeapi.ducks.party",
+        "https://pol1.hpapi.ggtyler.dev",
         "https://hyperpipebackend.in.projectsegfau.lt"
     ],
-    "jiosaavn": "https://jiosavan-ytify.vercel.app",
+    "jiosaavn": "https://saavn-ytify.vercel.app",
     "status": -1,
     "health": "P"
 }
