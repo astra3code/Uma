@@ -1,8 +1,8 @@
 {
     "piped": [
         "https://nyc1.piapi.ggtyler.dev",
-        "https://cal1.piapi.ggtyler.dev",
         "https://piapi.ggtyler.dev",
+        "https://cal1.piapi.ggtyler.dev",
         "https://pol1.piapi.ggtyler.dev"
     ],
     "hls": [],
@@ -12,8 +12,8 @@
     ],
     "hyperpipe": [
         "https://nyc1.hpapi.ggtyler.dev",
-        "https://hyperpipeapi.darkness.services",
         "https://hyperpipeapi.onrender.com",
+        "https://hyperpipeapi.darkness.services",
         "https://hyperpipebackend.in.projectsegfau.lt"
     ],
     "jiosaavn": "https://saavn-ytify.vercel.app",
