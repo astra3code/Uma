@@ -1,14 +1,14 @@
 {
     "piped": [
         "https://nyc1.piapi.ggtyler.dev",
-        "https://piapi.ggtyler.dev",
         "https://cal1.piapi.ggtyler.dev",
-        "https://pol1.piapi.ggtyler.dev"
+        "https://pol1.piapi.ggtyler.dev",
+        "https://piapi.ggtyler.dev"
     ],
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://invidious.reallyaweso.me"
+        "https://pol1.iv.ggtyler.dev"
     ],
     "hyperpipe": [
         "https://nyc1.hpapi.ggtyler.dev",
@@ -18,6 +18,6 @@
         "https://hyperpipeapi.ducks.party"
     ],
     "jiosaavn": "https://saavn-ytify.vercel.app",
-    "status": -1,
-    "health": "N"
+    "status": 0,
+    "health": "I"
 }
