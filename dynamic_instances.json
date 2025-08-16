@@ -8,17 +8,17 @@
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://invidious.nikkosphere.com"
+        "https://invidious.nikkosphere.com",
+        "https://lekker.gay"
     ],
     "hyperpipe": [
+        "https://hyperpipeapi.darkness.services",
         "https://hyperpipeapi.onrender.com",
         "https://nyc1.hpapi.ggtyler.dev",
-        "https://hyperpipeapi.darkness.services",
         "https://pol1.hpapi.ggtyler.dev",
-        "https://hyperpipebackend.in.projectsegfau.lt",
-        "https://hyperpipeapi.ducks.party"
+        "https://hyperpipebackend.in.projectsegfau.lt"
     ],
-    "jiosaavn": "https://jiosavan-ytify.vercel.app",
+    "jiosaavn": "https://saavn-sigma.vercel.app",
     "status": 0,
     "health": "I"
 }
