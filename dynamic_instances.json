@@ -4,8 +4,7 @@
         "https://nyc1.piapi.ggtyler.dev",
         "https://pipedapi.drgns.space",
         "https://piapi.ggtyler.dev",
-        "https://api.piped.private.coffee",
-        "https://pipedapi.ducks.party"
+        "https://api.piped.private.coffee"
     ],
     "hls": [],
     "proxy": [
@@ -16,10 +15,10 @@
     ],
     "hyperpipe": [
         "https://hyperpipeapi.darkness.services",
-        "https://nyc1.hpapi.ggtyler.dev",
         "https://hyperpipeapi.onrender.com",
-        "https://hyperpipebackend.in.projectsegfau.lt",
-        "https://hyperpipeapi.ducks.party"
+        "https://pol1.hpapi.ggtyler.dev",
+        "https://hyperpipeapi.ducks.party",
+        "https://hyperpipebackend.in.projectsegfau.lt"
     ],
     "jiosaavn": "https://saavn-ytify.vercel.app",
     "status": 0,
