@@ -1,25 +1,27 @@
 {
     "piped": [
         "https://pipedapi.drgns.space",
-        "https://piapi.ggtyler.dev",
+        "https://cal1.piapi.ggtyler.dev",
+        "https://api.piped.private.coffee",
         "https://nyc1.piapi.ggtyler.dev",
-        "https://cal1.piapi.ggtyler.dev"
+        "https://piapi.ggtyler.dev"
     ],
     "hls": [],
-    "proxy": [],
+    "proxy": [
+        "https://api.piped.private.coffee"
+    ],
     "invidious": [
         "https://invidious.nikkosphere.com"
     ],
     "hyperpipe": [
-        "https://cal1.hpapi.ggtyler.dev",
-        "https://nyc1.hpapi.ggtyler.dev",
         "https://hyperpipeapi.darkness.services",
-        "https://pol1.hpapi.ggtyler.dev",
         "https://hyperpipeapi.onrender.com",
-        "https://hyperpipeapi.ducks.party",
+        "https://cal1.hpapi.ggtyler.dev",
+        "https://pol1.hpapi.ggtyler.dev",
+        "https://nyc1.hpapi.ggtyler.dev",
         "https://hyperpipebackend.in.projectsegfau.lt"
     ],
-    "jiosaavn": "https://saavn-sigma.vercel.app",
+    "jiosaavn": "https://jiosavan-ytify.vercel.app",
     "status": 0,
-    "health": "I"
+    "health": "P"
 }
