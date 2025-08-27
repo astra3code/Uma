@@ -8,7 +8,6 @@
     ],
     "hls": [],
     "proxy": [
-        "https://pipedapi.ducks.party",
         "https://api.piped.private.coffee"
     ],
     "invidious": [
@@ -16,15 +15,15 @@
         "https://yt.omada.cafe"
     ],
     "hyperpipe": [
-        "https://hyperpipeapi.onrender.com",
-        "https://hyperpipeapi.ducks.party",
-        "https://hyperpipeapi.darkness.services",
         "https://nyc1.hpapi.ggtyler.dev",
         "https://cal1.hpapi.ggtyler.dev",
+        "https://hyperpipeapi.onrender.com",
+        "https://hyperpipeapi.darkness.services",
         "https://pol1.hpapi.ggtyler.dev",
+        "https://hyperpipeapi.ducks.party",
         "https://hyperpipebackend.in.projectsegfau.lt"
     ],
-    "jiosaavn": "https://saavn-ytify.vercel.app",
+    "jiosaavn": "https://saavn-sigma.vercel.app",
     "status": 0,
     "health": "P"
 }
