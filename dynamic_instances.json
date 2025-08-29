@@ -9,6 +9,7 @@
     ],
     "hls": [],
     "proxy": [
+        "https://pipedapi.ducks.party",
         "https://api.piped.private.coffee"
     ],
     "invidious": [
@@ -22,10 +23,9 @@
         "https://hyperpipeapi.darkness.services",
         "https://pol1.hpapi.ggtyler.dev",
         "https://nyc1.hpapi.ggtyler.dev",
-        "https://hyperpipeapi.ducks.party",
         "https://hyperpipebackend.in.projectsegfau.lt"
     ],
-    "jiosaavn": "https://saavn-ytify.vercel.app",
+    "jiosaavn": "https://jiosavan-ytify.vercel.app",
     "status": 0,
     "health": "P"
 }
