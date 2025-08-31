@@ -12,13 +12,15 @@
         "https://api.piped.private.coffee"
     ],
     "invidious": [
-        "https://yt.omada.cafe"
+        "https://yt.omada.cafe",
+        "https://lekker.gay"
     ],
     "hyperpipe": [
+        "https://cal1.hpapi.ggtyler.dev",
         "https://hyperpipeapi.onrender.com",
         "https://hyperpipeapi.darkness.services",
         "https://nyc1.hpapi.ggtyler.dev",
-        "https://cal1.hpapi.ggtyler.dev",
+        "https://hyperpipeapi.ducks.party",
         "https://pol1.hpapi.ggtyler.dev",
         "https://hyperpipebackend.in.projectsegfau.lt"
     ],
