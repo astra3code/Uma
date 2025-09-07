@@ -11,16 +11,14 @@
     ],
     "invidious": [
         "https://invidious.nikkosphere.com",
-        "https://lekker.gay",
         "https://yt.omada.cafe"
     ],
     "hyperpipe": [
         "https://nyc1.hpapi.ggtyler.dev",
-        "https://hyperpipeapi.darkness.services",
         "https://hyperpipeapi.onrender.com",
-        "https://pol1.hpapi.ggtyler.dev",
+        "https://hyperpipeapi.darkness.services",
         "https://hyperpipebackend.in.projectsegfau.lt",
-        "https://hyperpipeapi.ducks.party"
+        "https://pol1.hpapi.ggtyler.dev"
     ],
     "jiosaavn": "https://jiosavan-ytify.vercel.app",
     "status": 0,
