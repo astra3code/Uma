@@ -13,12 +13,12 @@
         "https://api.piped.private.coffee"
     ],
     "invidious": [
-        "https://cal1.iv.ggtyler.dev"
+        "https://invidious.nikkosphere.com"
     ],
     "hyperpipe": [
+        "https://hyperpipeapi.onrender.com",
         "https://cal1.hpapi.ggtyler.dev",
         "https://nyc1.hpapi.ggtyler.dev",
-        "https://hyperpipeapi.onrender.com",
         "https://pol1.hpapi.ggtyler.dev",
         "https://hyperpipeapi.ducks.party"
     ],
