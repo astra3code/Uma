@@ -1,12 +1,9 @@
 {
     "piped": [
-        "https://pipedapi.ducks.party",
-        "https://api.piped.private.coffee"
+        "https://pipedapi.ducks.party"
     ],
     "hls": [],
-    "proxy": [
-        "https://api.piped.private.coffee"
-    ],
+    "proxy": [],
     "invidious": [
         "https://yt.omada.cafe"
     ],
@@ -18,5 +15,5 @@
     ],
     "jiosaavn": "https://saavn-ytify.vercel.app",
     "status": 0,
-    "health": "P"
+    "health": "I"
 }
