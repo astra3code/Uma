@@ -8,13 +8,14 @@
         "https://api.piped.private.coffee"
     ],
     "invidious": [
+        "https://invidious.baczek.me",
         "https://yt.omada.cafe"
     ],
     "hyperpipe": [
-        "https://hyperpipeapi.darkness.services",
         "https://hyperpipeapi.onrender.com",
-        "https://hyperpipeapi.ducks.party",
-        "https://hyperpipebackend.in.projectsegfau.lt"
+        "https://hyperpipeapi.darkness.services",
+        "https://hyperpipebackend.in.projectsegfau.lt",
+        "https://hyperpipeapi.ducks.party"
     ],
     "jiosaavn": "https://saavn-ytify.vercel.app",
     "status": 0,
