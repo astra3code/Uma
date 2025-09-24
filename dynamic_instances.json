@@ -8,7 +8,7 @@
         "https://api.piped.private.coffee"
     ],
     "invidious": [
-        "https://invidious.nikkosphere.com"
+        "https://yt.omada.cafe"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.darkness.services",
@@ -16,7 +16,7 @@
         "https://hyperpipebackend.in.projectsegfau.lt",
         "https://hyperpipeapi.ducks.party"
     ],
-    "jiosaavn": "https://saavn-ytify.vercel.app",
-    "status": -1,
+    "jiosaavn": "https://saavn-sigma.vercel.app",
+    "status": 0,
     "health": "P"
 }
