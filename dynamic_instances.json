@@ -4,9 +4,7 @@
         "https://pipedapi.ducks.party"
     ],
     "hls": [],
-    "proxy": [
-        "https://api.piped.private.coffee"
-    ],
+    "proxy": [],
     "invidious": [
         "https://yt.omada.cafe"
     ],
@@ -16,7 +14,7 @@
         "https://hyperpipebackend.in.projectsegfau.lt",
         "https://hyperpipeapi.ducks.party"
     ],
-    "jiosaavn": "https://saavn-ytify.vercel.app",
+    "jiosaavn": "https://jiosavan-ytify.vercel.app",
     "status": 0,
-    "health": "P"
+    "health": "I"
 }
