@@ -1,6 +1,5 @@
 {
     "piped": [
-        "https://api.piped.private.coffee",
         "https://pipedapi.ducks.party"
     ],
     "hls": [],
@@ -9,8 +8,8 @@
         "https://yt.omada.cafe"
     ],
     "hyperpipe": [
-        "https://hyperpipeapi.onrender.com",
         "https://hyperpipeapi.darkness.services",
+        "https://hyperpipeapi.onrender.com",
         "https://hyperpipebackend.in.projectsegfau.lt",
         "https://hyperpipeapi.ducks.party"
     ],
