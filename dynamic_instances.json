@@ -1,5 +1,6 @@
 {
     "piped": [
+        "https://pipedapi.drgns.space",
         "https://api.piped.private.coffee"
     ],
     "hls": [],
@@ -12,6 +13,7 @@
     "hyperpipe": [
         "https://hyperpipeapi.darkness.services",
         "https://hyperpipeapi.onrender.com",
+        "https://hyperpipeapi.ducks.party",
         "https://hyperpipebackend.in.projectsegfau.lt"
     ],
     "jiosaavn": "https://jiosavan-ytify.vercel.app",
