@@ -7,15 +7,15 @@
         "https://api.piped.private.coffee"
     ],
     "invidious": [
-        "https://invidious.reallyaweso.me"
+        "https://yt.omada.cafe"
     ],
     "hyperpipe": [
-        "https://hyperpipeapi.darkness.services",
         "https://hyperpipeapi.onrender.com",
+        "https://hyperpipeapi.darkness.services",
         "https://hyperpipeapi.ducks.party",
         "https://hyperpipebackend.in.projectsegfau.lt"
     ],
     "jiosaavn": "https://saavn-sigma.vercel.app",
-    "status": -1,
+    "status": 0,
     "health": "P"
 }
