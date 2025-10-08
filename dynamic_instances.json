@@ -3,11 +3,8 @@
         "https://api.piped.private.coffee"
     ],
     "hls": [],
-    "proxy": [
-        "https://api.piped.private.coffee"
-    ],
+    "proxy": [],
     "invidious": [
-        "https://invidious.nikkosphere.com",
         "https://yt.omada.cafe"
     ],
     "hyperpipe": [
@@ -18,5 +15,5 @@
     ],
     "jiosaavn": "https://saavn-sigma.vercel.app",
     "status": 0,
-    "health": "P"
+    "health": "I"
 }
