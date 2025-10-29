@@ -5,8 +5,7 @@
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://invidious.nikkosphere.com",
-        "https://yt.omada.cafe"
+        "https://invidious.nikkosphere.com"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.onrender.com",
@@ -14,7 +13,7 @@
         "https://hyperpipeapi.ducks.party",
         "https://hyperpipebackend.in.projectsegfau.lt"
     ],
-    "jiosaavn": "https://saavn-ytify.vercel.app",
+    "jiosaavn": "https://jiosavan-ytify.vercel.app",
     "status": 0,
     "health": "I"
 }
