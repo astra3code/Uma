@@ -5,12 +5,13 @@
     "hls": [],
     "proxy": [],
     "invidious": [
+        "https://invidious.nikkosphere.com",
         "https://yt.omada.cafe"
     ],
     "hyperpipe": [
-        "https://hyperpipeapi.ducks.party",
         "https://hyperpipeapi.onrender.com",
         "https://hyperpipeapi.darkness.services",
+        "https://hyperpipeapi.ducks.party",
         "https://hyperpipebackend.eu.projectsegfau.lt",
         "https://hyperpipebackend.in.projectsegfau.lt"
     ],
