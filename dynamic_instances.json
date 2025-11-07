@@ -12,7 +12,7 @@
         "https://hyperpipeapi.darkness.services",
         "https://hyperpipebackend.eu.projectsegfau.lt"
     ],
-    "jiosaavn": "https://saavn-sigma.vercel.app",
-    "status": 0,
-    "health": "I"
+    "jiosaavn": "https://jiosavan-ytify.vercel.app",
+    "status": -1,
+    "health": "N"
 }
