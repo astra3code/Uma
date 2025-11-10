@@ -9,11 +9,10 @@
     ],
     "hyperpipe": [
         "https://hyperpipeapi.onrender.com",
-        "https://hyperpipeapi.darkness.services",
-        "https://hyperpipebackend.in.projectsegfau.lt",
-        "https://hyperpipebackend.eu.projectsegfau.lt"
+        "https://hyperpipebackend.eu.projectsegfau.lt",
+        "https://hyperpipeapi.darkness.services"
     ],
     "jiosaavn": "https://jiosavan-ytify.vercel.app",
-    "status": 0,
-    "health": "I"
+    "status": -1,
+    "health": "N"
 }
