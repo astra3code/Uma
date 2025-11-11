@@ -14,6 +14,6 @@
         "https://hyperpipebackend.in.projectsegfau.lt"
     ],
     "jiosaavn": "https://jiosavan-ytify.vercel.app",
-    "status": -1,
-    "health": "N"
+    "status": 0,
+    "health": "I"
 }
