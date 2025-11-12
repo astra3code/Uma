@@ -8,10 +8,9 @@
         "https://invidious.nikkosphere.com"
     ],
     "hyperpipe": [
-        "https://hyperpipeapi.onrender.com",
         "https://hyperpipebackend.eu.projectsegfau.lt",
         "https://hyperpipeapi.darkness.services",
-        "https://hyperpipebackend.in.projectsegfau.lt"
+        "https://hyperpipeapi.onrender.com"
     ],
     "jiosaavn": "https://jiosavan-ytify.vercel.app",
     "status": -1,
