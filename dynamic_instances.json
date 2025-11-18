@@ -9,9 +9,8 @@
     ],
     "hyperpipe": [
         "https://hyperpipeapi.darkness.services",
-        "https://hyperpipeapi.onrender.com",
         "https://hyperpipebackend.eu.projectsegfau.lt",
-        "https://hyperpipebackend.in.projectsegfau.lt"
+        "https://hyperpipeapi.onrender.com"
     ],
     "jiosaavn": "https://saavn-ytify.vercel.app",
     "status": 0,
