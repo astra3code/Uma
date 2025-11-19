@@ -8,9 +8,8 @@
         "https://yt.omada.cafe"
     ],
     "hyperpipe": [
-        "https://hyperpipeapi.darkness.services",
         "https://hyperpipeapi.onrender.com",
-        "https://hyperpipebackend.in.projectsegfau.lt",
+        "https://hyperpipeapi.darkness.services",
         "https://hyperpipebackend.eu.projectsegfau.lt"
     ],
     "jiosaavn": "https://saavn-sigma.vercel.app",
