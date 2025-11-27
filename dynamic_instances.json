@@ -5,12 +5,11 @@
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://iv.melmac.space"
+        "https://y.com.sb"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.onrender.com",
         "https://hyperpipeapi.darkness.services",
-        "https://hyperpipebackend.in.projectsegfau.lt",
         "https://hyperpipebackend.eu.projectsegfau.lt"
     ],
     "jiosaavn": "https://saavn-ytify.vercel.app",
