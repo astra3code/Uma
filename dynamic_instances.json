@@ -5,7 +5,7 @@
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://yt.omada.cafe"
+        "https://inv.vern.cc"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.darkness.services",
@@ -13,6 +13,6 @@
         "https://hyperpipebackend.in.projectsegfau.lt"
     ],
     "jiosaavn": "https://saavn-ytify.vercel.app",
-    "status": 0,
-    "health": "I"
+    "status": -1,
+    "health": "N"
 }
