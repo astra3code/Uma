@@ -8,8 +8,8 @@
         "https://yt.omada.cafe"
     ],
     "hyperpipe": [
-        "https://hyperpipeapi.darkness.services",
         "https://hyperpipeapi.onrender.com",
+        "https://hyperpipeapi.darkness.services",
         "https://hyperpipebackend.in.projectsegfau.lt"
     ],
     "jiosaavn": "https://jiosavan-ytify.vercel.app",
