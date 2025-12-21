@@ -5,11 +5,11 @@
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://iv.melmac.space"
+        "https://y.com.sb"
     ],
     "hyperpipe": [
-        "https://hyperpipeapi.darkness.services",
-        "https://hyperpipeapi.onrender.com"
+        "https://hyperpipeapi.onrender.com",
+        "https://hyperpipeapi.darkness.services"
     ],
     "jiosaavn": "https://jiosavan-ytify.vercel.app",
     "status": -1,
