@@ -5,13 +5,13 @@
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://iv.melmac.space"
+        "https://inv.vern.cc"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.darkness.services",
         "https://hyperpipeapi.onrender.com"
     ],
-    "jiosaavn": "https://saavn-ytify.vercel.app",
+    "jiosaavn": "https://saavn-sigma.vercel.app",
     "status": -1,
     "health": "N"
 }
