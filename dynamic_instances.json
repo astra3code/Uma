@@ -8,8 +8,8 @@
         "https://inv.vern.cc"
     ],
     "hyperpipe": [
-        "https://hyperpipeapi.onrender.com",
-        "https://hyperpipeapi.darkness.services"
+        "https://hyperpipeapi.darkness.services",
+        "https://hyperpipeapi.onrender.com"
     ],
     "jiosaavn": "https://saavn-sigma.vercel.app",
     "status": -1,
