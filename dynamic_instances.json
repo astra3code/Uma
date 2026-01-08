@@ -5,12 +5,12 @@
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://inv.vern.cc"
+        "https://yt.omada.cafe"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.onrender.com"
     ],
     "jiosaavn": "https://jiosavan-ytify.vercel.app",
-    "status": -1,
-    "health": "N"
+    "status": 0,
+    "health": "I"
 }
