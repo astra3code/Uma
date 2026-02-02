@@ -5,8 +5,7 @@
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://invidious.darkness.services",
-        "https://invidious.nikkosphere.com"
+        "https://invidious.darkness.services"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.onrender.com"
