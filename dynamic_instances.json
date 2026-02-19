@@ -6,6 +6,7 @@
     "proxy": [],
     "invidious": [
         "https://invidious.darkness.services",
+        "https://invidious.f5.si",
         "https://yt.omada.cafe"
     ],
     "hyperpipe": [
