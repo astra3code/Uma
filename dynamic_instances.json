@@ -5,12 +5,12 @@
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://yt.omada.cafe"
+        "https://iv.melmac.space"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.onrender.com"
     ],
     "jiosaavn": "https://saavn-sigma.vercel.app",
-    "status": 0,
-    "health": "I"
+    "status": -1,
+    "health": "N"
 }
