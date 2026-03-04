@@ -1,15 +1,16 @@
 {
-    "piped": [],
+    "piped": [
+        "https://api.piped.private.coffee"
+    ],
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://yt.omada.cafe",
         "https://invidious.f5.si"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.onrender.com"
     ],
-    "jiosaavn": "https://saavn-ytify.vercel.app",
+    "jiosaavn": "https://jiosavan-ytify.vercel.app",
     "status": 0,
     "health": "I"
 }
