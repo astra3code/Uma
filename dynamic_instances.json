@@ -1,5 +1,7 @@
 {
-    "piped": [],
+    "piped": [
+        "https://api.piped.private.coffee"
+    ],
     "hls": [],
     "proxy": [],
     "invidious": [
