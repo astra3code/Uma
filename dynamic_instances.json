@@ -1,10 +1,9 @@
 {
-    "piped": [
-        "https://api.piped.private.coffee"
-    ],
+    "piped": [],
     "hls": [],
     "proxy": [],
     "invidious": [
+        "https://invidious.f5.si",
         "https://yt.omada.cafe"
     ],
     "hyperpipe": [
