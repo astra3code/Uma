@@ -5,7 +5,6 @@
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://invidious.f5.si",
         "https://invidious.darkness.services",
         "https://yt.omada.cafe"
     ],
