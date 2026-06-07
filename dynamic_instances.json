@@ -5,8 +5,7 @@
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://invidious.schenkel.eti.br",
-        "https://yt.omada.cafe"
+        "https://invidious.schenkel.eti.br"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.onrender.com"
