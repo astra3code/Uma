@@ -7,10 +7,8 @@
     "invidious": [
         "https://yt.omada.cafe"
     ],
-    "hyperpipe": [
-        "https://hyperpipeapi.onrender.com"
-    ],
-    "jiosaavn": "https://saavn-sigma.vercel.app",
-    "status": -1,
-    "health": "N"
+    "hyperpipe": [],
+    "jiosaavn": "https://jiosavan-ytify.vercel.app",
+    "status": 0,
+    "health": "I"
 }
