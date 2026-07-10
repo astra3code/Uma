@@ -5,14 +5,14 @@
     "hls": [],
     "proxy": [],
     "invidious": [
+        "https://invidious.schenkel.eti.br",
         "https://y.com.sb",
-        "https://yt.omada.cafe",
-        "https://invidious.schenkel.eti.br"
+        "https://yt.omada.cafe"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.onrender.com"
     ],
-    "jiosaavn": "https://saavn-sigma.vercel.app",
+    "jiosaavn": "https://saavn-ytify.vercel.app",
     "status": 0,
     "health": "I"
 }
