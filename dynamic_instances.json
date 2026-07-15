@@ -8,7 +8,7 @@
         "https://yt.omada.cafe"
     ],
     "hyperpipe": [],
-    "jiosaavn": "https://saavn-ytify.vercel.app",
-    "status": 0,
-    "health": "I"
+    "jiosaavn": "https://jiosavan-ytify.vercel.app",
+    "status": -1,
+    "health": "N"
 }
