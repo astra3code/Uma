@@ -5,9 +5,11 @@
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://y.com.sb"
+        "https://invidious.darkness.services"
     ],
-    "hyperpipe": [],
+    "hyperpipe": [
+        "https://hyperpipeapi.onrender.com"
+    ],
     "jiosaavn": "https://saavn-ytify.vercel.app",
     "status": -1,
     "health": "N"
