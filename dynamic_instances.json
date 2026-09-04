@@ -1,16 +1,17 @@
 {
     "piped": [
+        "https://pipedapi.ducks.party",
         "https://api.piped.private.coffee"
     ],
     "hls": [],
     "proxy": [],
     "invidious": [
-        null
+        "https://invidious.schenkel.eti.br"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.onrender.com"
     ],
-    "jiosaavn": "https://saavn-ytify.vercel.app",
+    "jiosaavn": "https://saavn-sigma.vercel.app",
     "status": -1,
     "health": "N"
 }
