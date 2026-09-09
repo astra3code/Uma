@@ -1,6 +1,5 @@
 {
     "piped": [
-        "https://pipedapi.ducks.party",
         "https://api.piped.private.coffee"
     ],
     "hls": [],
@@ -12,7 +11,7 @@
     "hyperpipe": [
         "https://hyperpipeapi.onrender.com"
     ],
-    "jiosaavn": "https://saavn-ytify.vercel.app",
+    "jiosaavn": "https://saavn-sigma.vercel.app",
     "status": 0,
     "health": "I"
 }
