@@ -6,12 +6,12 @@
     "hls": [],
     "proxy": [],
     "invidious": [
-        "https://invidious.f5.si"
+        "https://y.com.sb"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.onrender.com"
     ],
     "jiosaavn": "https://saavn-ytify.vercel.app",
-    "status": -1,
-    "health": "N"
+    "status": 0,
+    "health": "I"
 }
