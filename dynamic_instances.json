@@ -6,7 +6,7 @@
     "hls": [],
     "proxy": [],
     "invidious": [
-        null
+        "https://y.com.sb"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.onrender.com"
